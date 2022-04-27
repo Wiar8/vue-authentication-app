@@ -1,29 +1,18 @@
-# vue-authentication-app
+# Vue Authentication App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple application to create a basic authentication using Firebase, Pinia and VueJS.
 
-## Recommended IDE Setup
+## How to clone
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+This project uses [PNPM](https://pnpm.io/)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
+```bash
+  git clone https://github.com/Wiar8/vue-authentication-app.git
+  cd vue-authentication-app
+  pnpm install
+  pnpm run dev
 ```
 
-### Compile and Hot-Reload for Development
+## Screenshots
 
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
+![App Screenshot](/preview.png)
